@@ -46,6 +46,8 @@
                             <br>
                             <p><b><a href="https://github.com/scottgriv/PRG-Gold-Tier-Template">Gold Tier Template</a></b></p>
                         </td>
+                    </tr>
+                    <tr>
                         <td align="center">
                             <a href="https://github.com/scottgriv/PRG-Silver-Tier-Template"><img src="./docs/images/icon-silver-rounded.png" width="100"></a>
                             <br>
