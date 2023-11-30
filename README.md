@@ -16,7 +16,7 @@
 
 ---------------
 
-<h1 align="center"><img src="https://via.placeholder.com/22x22/FFD700/000000?text=+"> PRG Platinum Tier Template</img></h1>
+<h1 align="center"><img src="https://via.placeholder.com/22x22/E5E4E2/000000?text=+"> PRG Platinum Tier Template</img></h1>
 
 <!-- Remove this block before you commit your README - this is for template reference purposes only -->
 <div align="center">
