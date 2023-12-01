@@ -37,7 +37,7 @@
                 <table>
                     <tr>
                         <td align="center">
-                        <p align="center"><i>You are here.</i></p>
+                        <p align="center"><i>You are here</i></p>
                             <a href="https://github.com/scottgriv/PRG-Platinum-Tier-Template"><img src="./docs/images/icon-silver-rounded.png" width="100"></a>
                             <br>
                             <p><b><a href="https://github.com/scottgriv/PRG-Platinum-Tier-Template">Platinum Tier Template</a></b></p>
