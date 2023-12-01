@@ -37,6 +37,7 @@
                 <table>
                     <tr>
                         <td align="center">
+                        <p align="center"><i>You are here.</i></p>
                             <a href="https://github.com/scottgriv/PRG-Platinum-Tier-Template"><img src="./docs/images/icon-silver-rounded.png" width="100"></a>
                             <br>
                             <p><b><a href="https://github.com/scottgriv/PRG-Platinum-Tier-Template">Platinum Tier Template</a></b></p>
@@ -60,14 +61,12 @@
                         </td>
                     </tr>
                 </table>
-                <div align="center"><i>Visit the template collections above.</i></div>
             </div>
         </td>
     </tr>
 </table>
 </div>
 <!-- End Remove Block -->
-
 
 > [!NOTE]
 > I will be using examples from my project [River Charts](https://github.com/scottgriv/River-Charts) throughout this `README` template.
