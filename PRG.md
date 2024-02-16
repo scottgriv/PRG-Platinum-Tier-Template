@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Silver <br>
 **Technology:** Markdown, GitHub <br>
 **Category:** Public Template <br>
-**Order:** 21 <br>
+**Order:** 17 <br>
 
 ## Parameters
 
