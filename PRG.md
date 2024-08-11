@@ -12,7 +12,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 
 ## Project Information
 
-**Repository Tier:** Silver <br>
+**Repository Tier:** Platinum <br>
 **Technology:** Markdown, GitHub <br>
 **Category:** Public Template <br>
 **Order:** 18 <br>
